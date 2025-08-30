@@ -3,6 +3,7 @@
 
 # Основные ресурсы
 https://ilovehackit.ru - основной сайт проекта
+
 https://t.me/ilovehackit_hacksobes - основной telegram канал проекта
 
 Удачи на собеседовании!
