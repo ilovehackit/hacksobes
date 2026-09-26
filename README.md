@@ -4,7 +4,7 @@
 # Основные ресурсы
 https://ilovehackit.ru - основной сайт проекта
 
-https://t.me/ilovehackit_hacksobes - основной telegram канал проекта
+https://t.me/ilovehackit_bot - основной telegram канал проекта
 
 https://ilovehackit.ru/hacksobes/blog/realnie-otzyvy - реальные отзывы подписчиков
 
